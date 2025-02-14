@@ -1,0 +1,14 @@
+{
+	"config": "air",
+	"compilerOptions": {
+		"source-path": [
+			"src"
+		],
+		"library-path": [
+			"libs"
+		],
+		"output": "bin/ruffle_bug_report.swf"
+	},
+	"application": "src/ruffle_bug_report-app.xml",
+	"mainClass": "ruffle_bug_report"
+}
